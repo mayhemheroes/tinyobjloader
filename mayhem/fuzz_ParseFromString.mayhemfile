@@ -1,0 +1,4 @@
+project: PROJECT
+target: fuzz_ParseFromString
+cmds:
+- cmd: /out/fuzz_ParseFromString
